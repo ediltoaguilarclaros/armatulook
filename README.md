@@ -1,7 +1,7 @@
 # Proyecto Armato Look
 ## Integrantes
 
-*Edilto
-*kenyo
-*Victori
-*Estefano
+* Edilto
+* kenyo
+* Victori
+* Estefano
